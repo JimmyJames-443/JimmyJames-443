@@ -1,5 +1,5 @@
 #---> :
-class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "James Muriithi"<br>        self.focus = ["Automation", "Offensive Security", "Exploit Dev"]<br>        self.tools = ["Python", "JavaScript", "C++"]<br>        self.objective = "Bridging the gap between automated systems and manual exploitation."<br><br>    def mission_statement(self):<br>        return "Turning vulnerabilities into documented findings through code."<br><br><br>
+class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "James Muriithi"<br>        self.focus = ["Automation", "Offensive Security", "Exploit Dev"]<br>        self.tools = ["Python", "JavaScript", "C++"]<br>        self.objective = "Bridging the gap between automated systems and manual exploitation."<br><br>    def mission_statement(self):<br>        return "Turning vulnerabilities into documented findings through code." <br>JIMMY_JAMES' GONNA SHAKE YOUR SYSTEM<br><br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 ---
 [![](https://visitcount.itsvg.in/api?id=JimmyJames-443&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
