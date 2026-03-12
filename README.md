@@ -42,14 +42,12 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 ## 📊 Performance & Reliability
 
-
 <p align="left">
-<img src="https://github-readme-stats.vercel.app[JimmyJames-443]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" height="180px" />
 </p>
 
 ![Arch Crash Counter](https://img.shields.io)
 > *Note: It was probably my fault for messing with the config.*
-
 
 
 
