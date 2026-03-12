@@ -17,11 +17,35 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-*   **OS:** Arch Linux, Ubuntu, Debian
-*   **Shells:** Bash, Zsh
-*   **Editor:** NeoVim, VS Code
-*   **Languages:** Python, Bash, C++
-*   **Tools:** Git, Docker, Tmux, Ansible
+## 🛠️ Skills
+
+*   **OS:** 
+    ![Arch Linux](https://img.shields.io)
+    ![Ubuntu](https://img.shields.io)
+    ![Debian](https://img.shields.io)
+
+*   **Shells:** 
+    ![Bash](https://img.shields.io)
+    ![Zsh](https://img.shields.io)
+
+*   **Editor:** 
+    ![NeoVim](https://img.shields.io)
+    ![VS Code](https://img.shields.io)
+
+*   **Languages:** 
+    ![Python](https://img.shields.io)
+    ![Bash](https://img.shields.io)
+    ![C++](https://img.shields.io)
+
+*   **Tools:** 
+    ![Git](https://img.shields.io)
+    ![Docker](https://img.shields.io)
+    ![Tmux](https://img.shields.io)
+    ![Ansible](https://img.shields.io)
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JimmyJames-443&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JimmyJames-443&theme=tokyonight&hide_border=true)<br/>
