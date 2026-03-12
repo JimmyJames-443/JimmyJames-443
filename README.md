@@ -1,5 +1,15 @@
 #---> :
-class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "James Muriithi"<br>        self.focus = ["Automation", "Offensive Security", "Exploit Dev"]<br>        self.tools = ["Python", "JavaScript", "C++"]<br>        self.objective = "Bridging the gap between automated systems and manual exploitation."<br><br>    def mission_statement(self):<br>        return "Turning vulnerabilities into documented findings through code." <br># Offensive only when it matters.<br><br>JIMMY_JAMES' GONNA DESTROY YOU.<br><br><br>
+class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "James Muriithi"<br>        self.focus = ["Automation", "Offensive Security", "Exploit Dev"]<br>        self.tools = ["Python", "JavaScript", "C++"]<br>        self.objective = "Bridging the gap between automated systems and manual exploitation."<br><br>    def mission_statement(self):<br>        return "Turning vulnerabilities into documented findings through code." <br># Offensive only when it matters.
+
+# 🐧 [Your Name] | Linux Enthusiast
+
+> "Talk is cheap. Show me the code." - Linus Torvalds
+
+<div align="center">
+  <img src="https://octodex.github.com/images/dojocat.jpg" width="100px" alt="Profile Picture"/>
+</div>
+
+---
 
 
 ## 🌐 Socials:
