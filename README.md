@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Guy" />
 </p>
 
+---
+
 #---> :
 class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "James Muriithi"<br>        self.focus = ["Automation", "Offensive Security", "Exploit Dev"]<br>        self.tools = ["Python", "JavaScript", "C++"]<br>        self.objective = "Bridging the gap between automated systems and manual exploitation."<br><br>    def mission_statement(self):<br>        return "Turning vulnerabilities into documented findings through code." <br># Offensive only when it matters.
 
