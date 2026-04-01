@@ -27,11 +27,6 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 </div>
 
 
-# 📊 GitHub Stats:
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" height="25" /> `git log --oneline --graph`
-![](https://github-readme-stats.vercel.app/api?username=JimmyJames-443&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JimmyJames-443&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyJames-443&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
