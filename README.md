@@ -19,25 +19,15 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ---
-```mermaid
-graph LR
-    A[C: 90%] -->|Proficiency| B(( ))
-    C[C#: 75%] -->|Proficiency| D(( ))
-    E[C++: 85%] -->|Proficiency| F(( ))
-    G[Java: 80%] -->|Proficiency| H(( ))
-    I[JavaScript: 95%] -->|Proficiency| J(( ))
-    K[HTML5: 90%] -->|Proficiency| L(( ))
-    M[CSS3: 85%] -->|Proficiency| N(( ))
-    O[Python: 70%] -->|Proficiency| P(( ))
-    style A fill:#00599C,stroke:#333
-    style C fill:#239120,stroke:#333
-    style E fill:#00599C,stroke:#333
-    style G fill:#ED8B00,stroke:#333
-    style I fill:#F7DF1E,stroke:#333
-    style K fill:#E34F26,stroke:#333
-    style M fill:#1572B6,stroke:#333
-    style O fill:#3670A0,stroke:#333
-```   
+### Skills
+**C** 🔴🔴🔴🔴🔴🔴🔴🔴🔴⚪ 90%  
+**C#** 🔴🔴🔴🔴🔴🔴🔴⚪⚪⚪ 75%  
+**C++** 🔴🔴🔴🔴🔴🔴🔴🔴⚪⚪ 85%  
+**Java** 🔴🔴🔴🔴🔴🔴🔴🔴⚪⚪ 80%  
+**JavaScript** 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴 95%  
+**HTML5** 🔴🔴🔴🔴🔴🔴🔴🔴🔴⚪ 90%  
+**CSS3** 🔴🔴🔴🔴🔴🔴🔴🔴⚪⚪ 85%  
+**Python** 🔴🔴🔴🔴🔴🔴🔴⚪⚪⚪ 70%   
 ---
 
 🐧 
