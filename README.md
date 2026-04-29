@@ -33,6 +33,14 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 `[Kotlin]   ██████░░░░░░ 50%`        
 ---
 
+
+
+## 🐍 **<span style="color: #00FF00;"> Contribution Dynamics </span>** 📈
+
+![Snake animation](https://raw.githubusercontent.com/SnakeEye-sudo/SnakeEye-sudo/output/github-contribution-grid-snake-dark.svg)
+
+
+---
 🐧 
 > "Talk is cheap. Show me the code." - Linus Torvalds
 
