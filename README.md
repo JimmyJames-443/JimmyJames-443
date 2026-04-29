@@ -12,6 +12,16 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 ---
 
+<div align="center">
+
+<!-- Auto-updating GitHub Stats Cards with Ultra-Vibrant Neon Theme -->
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnakeEye-sudo&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=FFFFFF&border_radius=10&cache_seconds=21600"/>
+
+
+</div>
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jimmy.james443) 
