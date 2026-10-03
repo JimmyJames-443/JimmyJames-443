@@ -45,8 +45,8 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
   <img src="https://octodex.github.com/images/dojocat.jpg" width="100px" alt="Profile Picture"/>
 </div>
 
-
-
+---
+[![GitHub Grade](https://github-readme-stats.vercel.app/api?username=JimmyJames-443&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/JimmyJames-443)
 
 ---
 
