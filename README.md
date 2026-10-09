@@ -12,6 +12,9 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 ---
 
+<p align="center"><img src="./assets/skull_1_neon_glitch.svg" width="300" alt="skull"/></p>
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l00t3d) 
 
