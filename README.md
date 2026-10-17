@@ -41,7 +41,6 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000">
 
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000">
 
@@ -59,7 +58,7 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000">
+
 
 </div>
 
