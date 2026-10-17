@@ -1,7 +1,7 @@
 
 # James Muriithi
 
-<div align="left">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=25&center=true&vCenter=true&height=35&width=450&lines=I'm+JimmyJames;RedTeamer+%7C+Security+Researcher;Offensive+Security+Specialist;" />
 
@@ -67,3 +67,9 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 ---
 
 
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
+
+</p>
