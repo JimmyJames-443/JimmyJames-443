@@ -8,7 +8,7 @@
 </div>
 
 
-<p align="right">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Guy" />
 </p>
 
