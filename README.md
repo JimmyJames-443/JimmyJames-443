@@ -87,7 +87,9 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 ---
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimmyJames-443)](https://github.com/JimmyJames-443)
+  <a href="https://github.com/JimmyJames-443">
+    <img src="https://streak-stats.demolab.com?user=JimmyJames-443" alt="GitHub Streak" />
+  </a>
 </div>
 ---
 
