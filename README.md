@@ -1,7 +1,7 @@
 
 # James Muriithi
 
-<div align="center">
+<div align="left">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=25&center=true&vCenter=true&height=35&width=450&lines=I'm+JimmyJames;RedTeamer+%7C+Security+Researcher;Offensive+Security+Specialist;" />
 
