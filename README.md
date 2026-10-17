@@ -77,19 +77,11 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 `[Kotlin]   ██████░░░░░░ 50%`        
 ---
 --->
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&width=800&lines=Think+Like+An+Attacker;Build+Like+A+Defender;Break+To+Understand;Secure+To+Protect;Never+Stop+Learning"/>
-
-</p>
-
-
-
 ---
 🐧 
 > "Talk is cheap. Show me the code." - Linus Torvalds
 
-<div align="center">
+<div align="left">
   <img src="https://octodex.github.com/images/dojocat.jpg" width="100px" alt="Profile Picture"/>
 </div>
 
@@ -102,6 +94,11 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 
 ---
 
+<p align="left">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&width=800&lines=Think+Like+An+Attacker;Build+Like+A+Defender;Break+To+Understand;Secure+To+Protect;Never+Stop+Learning"/>
+
+</p>
 
 
 <p align="center">
