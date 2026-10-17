@@ -63,7 +63,7 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 </div>
 
 ---
-
+<!--
 `[C]        ██████████░░ 90%`  
 `[C#]       █████████░░░ 75%`  
 `[C++]      ██████████░░ 85%`  
@@ -76,8 +76,12 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 `[Bash]     ████████░░░░ 80%`  
 `[Kotlin]   ██████░░░░░░ 50%`        
 ---
+--->
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&width=800&lines=Think+Like+An+Attacker;Build+Like+A+Defender;Break+To+Understand;Secure+To+Protect;Never+Stop+Learning"/>
 
+</p>
 
 
 
