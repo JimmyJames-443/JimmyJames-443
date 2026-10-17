@@ -86,7 +86,7 @@ class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "Ja
 </div>
 
 ---
-[![GitHub Streak](https://herokuapp.com)](https://github.com/JimmyJames-443)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimmyJames-443)](https://github.com/JimmyJames-443)
 
 ---
 
