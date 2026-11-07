@@ -19,6 +19,11 @@
 #---> :
 class SecurityResearcher:<br>    def __init__(self):<br>        self.alias = "James Muriithi"<br>        self.focus = ["Automation", "Offensive Security", "Exploit Dev"]<br>        self.tools = ["Python", "JavaScript", "C++"]<br>        self.objective = "Bridging the gap between automated systems and manual exploitation."<br><br>    def mission_statement(self):<br>        return "Turning vulnerabilities into documented findings through code." <br># Offensive only when it matters.
 
+---
+> 🔒 **A Note on my GitHub Activity:** 
+> Due to strict **Non-Disclosure Agreements (NDAs)** for private bug bounty programs and enterprise clients, the majority of my security work takes place in private repositories, invite-only programs, or secure customer environments rather than public code platforms. 
+> 
+> My active contributions are primarily reflected through private triage platforms (such as [HackerOne/Bugcrowd/Synack]) and direct client engagements rather than public GitHub green squares.
 
 ---
 
