@@ -12,7 +12,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Guy" />
 </p>
+---
+class Researcher:
+    def __init__(self):
+        self.alias = "JimmyJames-443"
+        self.domain = ("Systems", "Security", "Engineering")
+        self.stack = ("C", "C++", "Python")
+        self.objective = "Exploit complexity. Engineer precision."
 
+    def execute(self):
+        return "Understand -> Deconstruct -> Rebuild"
 ---
 > 🔒 **A Note on my GitHub Activity:** 
 > Due to strict **Non-Disclosure Agreements (NDAs)** for private bug bounty programs and enterprise clients, the majority of my security work takes place in private repositories, invite-only programs, or secure customer environments rather than public code platforms. 
@@ -85,7 +94,7 @@
 </div>
 
 ---
-<div align="center">
+<!--- <div align="center">
   <a href="https://github.com/JimmyJames-443">
     <img src="https://streak-stats.demolab.com?user=JimmyJames-443" alt="GitHub Streak" />
   </a>
@@ -93,7 +102,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=JimmyJames-443&icon=0&color=0)](https://visitcount.itsvg.in)
-
+--->
 ---
 
 <p align="left">
