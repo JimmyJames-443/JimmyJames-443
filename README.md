@@ -13,20 +13,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Guy" />
 </p>
 ---
-```python
-class Researcher:
-    def __init__(self):
-        self.alias = "JimmyJames-443"
-        self.domain = ("Systems", "Security", "Engineering")
-        self.stack = ("C", "C++", "Python")
-        self.objective = "Exploit complexity. Engineer precision."
-
-    def execute(self):
-        return "Understand -> Deconstruct -> Rebuild"
-
-
-# Adversarial by design. Precise by implementation.
-```
 ---
 > 🔒 **A Note on my GitHub Activity:** 
 > Due to strict **Non-Disclosure Agreements (NDAs)** for private bug bounty programs and enterprise clients, the majority of my security work takes place in private repositories, invite-only programs, or secure customer environments rather than public code platforms. 
