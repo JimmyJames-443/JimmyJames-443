@@ -14,6 +14,8 @@
 </p>
 ---
 ---
+
+
 > 🔒 **A Note on my GitHub Activity:** 
 > Due to strict **Non-Disclosure Agreements (NDAs)** for private bug bounty programs and enterprise clients, the majority of my security work takes place in private repositories, invite-only programs, or secure customer environments rather than public code platforms. 
 > 
